@@ -44,7 +44,7 @@ global keys
         ,"e": ["{End}", True, ""]
         ,"f": ["{Right}", True, ""]
         ,"g": ["{Escape}", False, ""]
-        ,"h": ["", False, ""]
+        ,"h": ["{Backspace}", False, ""]
         ,"j": ["", True, ""]
         ,"k": ["", False, "MacroKillLine"]
         ,"n": ["{Down}", True, ""]

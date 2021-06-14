@@ -70,6 +70,7 @@ global keys
         ,"w": ["{F12}", False, ""] }
     , "alt"
       : {"f": ["^{Right}", True, ""]
+        ,"b": ["^{Left}", True, ""]
         ,"n": ["^n", False, ""]
         ,"v": ["{PgUp}", True, ""]
         ,"w": ["^c", False, ""]

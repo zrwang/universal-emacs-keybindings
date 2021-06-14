@@ -71,6 +71,7 @@ global keys
     , "alt"
       : {"f": ["^{Right}", True, ""]
         ,"b": ["^{Left}", True, ""]
+        ,"d": ["^{Del}", True, ""]
         ,"n": ["^n", False, ""]
         ,"v": ["{PgUp}", True, ""]
         ,"w": ["^c", False, ""]
